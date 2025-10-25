@@ -12,7 +12,8 @@ The repo is divided into sections from **basics** ➝ **intermediate** ➝ **adv
 - **Basics** 🟢  
   Beginner-level programs (e.g., addition, swapping, loops, arrays).  
   - ✅ Add two numbers  
-  - ✅ Swap two numbers (using third variable) (without third variable) 
+  - ✅ Swap two numbers (using third variable) (without third variable)
+  - ✅ Print multiplication table of any number
 
 
 - **Intermediate** 🟡  
@@ -30,6 +31,7 @@ Every time I add new code, I mark the date in green ✅.
 | Date       | Progress |
 |------------|-----------|
 | 24 Sept 25 | ✅ Basics: Add two numbers, Swap (with & without third variable) |
+| 26 oct 25 | ✅ Basics: Print multiplication table of any number.|
 
 ---
 
